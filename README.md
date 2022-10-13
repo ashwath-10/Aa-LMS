@@ -1,2 +1,3 @@
 # Aa-LMS
-Yet to come
+First phase registration phase has been uploaded. 
+The remaining phases are yet to be uploaded.
